@@ -29,7 +29,6 @@ Other              : <a href=Link>Recreating the Model Guide</a>, <a href=Link>D
 [Recommendations](https://github.com/a-woodbury/RxVision#recommendations) - 
 [Future](https://github.com/a-woodbury/RxVision#future) - 
 [Project Info](https://github.com/a-woodbury/RxVision#project-info) -
-[Works Cited](https://github.com/a-woodbury/RxVision#works-cited)
 
 ## Problem
 
@@ -116,5 +115,3 @@ Sub-Domain   :
 Techniques   :  
 Application  : 
 </pre>
-
-## Works Cited
