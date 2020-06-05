@@ -1,4 +1,8 @@
-# Novel Movie Studio Analysis
+![splash.jpg](https://github.com/a-woodbury/Greenlight/blob/master/Resources/greenlightsplash.png)
+
+**Novel Movie Studio Analysis**
+
+
 ## Flatiron School DC Data Science Module 1 Project
 #### Joe Buzzelli and Alphonso Woodbury
 Presented 03.06.2020
