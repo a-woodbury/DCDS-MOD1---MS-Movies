@@ -31,14 +31,19 @@ Other              : <a href=Link>Recreating the Model Guide</a>, <a href=Link>D
 [Project Info](https://github.com/a-woodbury/RxVision#project-info) -
 [Works Cited](https://github.com/a-woodbury/RxVision#works-cited)
 
-#### Data Sources
+## Problem
+
+**Assumptions:**
+* Consumer trends evolve rapidly and will only analyze film data since 2015
+* Our client will initially focus distribution in the United States
+
+
+## Data 
 * The Numbers
 * IMDB
 * Omdb
 
-#### Assumptions
-* Consumer trends evolve rapidly and will only analyze film data since 2015
-* Our client will initially focus distribution in the United States
+
 
 
 ### The data
@@ -49,7 +54,7 @@ The **imdb.titles** and **tn.budgets** datasets were joined on the film titles u
 
 The **API** data supplemented the provided budget and genre data with MPAA and viewer rating info. The resulting dataset is sorted by domestic profit descending and limited to the top 50 titles released since 2015.
 
-### Findings
+## Results
 
 * 42% of the Top 50 are Action/adventure
 
@@ -79,7 +84,7 @@ With a focus on profitability, we recommend that Microsoft produce a film meetin
 * MPAA Rating: Rated PG-13
 * Release: Released in either December of June.
 
-### Project Expansion Suggestions
+## Future
 * Scope: Test hypothesis against broader data set to explore potential statistical correlations
 
 * Talent: Expand analysis to movie talents’ (directors, writers) impact to profitability
