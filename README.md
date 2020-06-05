@@ -3,20 +3,33 @@
 **Novel Movie Studio Analysis**
 
 
-## Flatiron School DC Data Science Module 1 Project
-#### Joe Buzzelli and Alphonso Woodbury
-Presented 03.06.2020
-
-### Background
+### Overview
 
 Our challenge was to analyze movie industry data and provide a client (Microsoft) guidance for developing a new studio. We provided visuals, analysis, and a brief presentation to share our findings and recommendations. 
 
-#### Questions
-To best serve our client, we propose 3 questions after reviewing the available data:
 * Which genre(s) are indicated in the highest performing movies over the last five years?
 * Is there a relationship between a movies MPAA rating and performance?
 * When is the best time to release the film?
 
+### Repository Navigation
+<pre>
+Technical Notebook : <a href=https://github.com/a-woodbury/RxVision/blob/master/Notebooks/RxVision_Technical_Notebook.ipynb>Technical Notebook </a>
+Other Notebooks    : <a href=https://github.com/a-woodbury/RxVision/blob/master/RxVision_Modeling.ipynb>Modeling</a>, <a href=https://github.com/a-woodbury/RxVision/blob/master/RRxVision_Data_Collection.ipynb>Data Collection Notebook </a>
+Dataset Links      : <a href=https://www.nlm.nih.gov/databases/download/pill_image.html>NIH RxImage Portal</a>, <a href=Link>GCP Bucket</a>
+Presentation       : <a href=https://github.com/a-woodbury/RxVision/blob/master/Presentation/RxVision.pdf>Slide Deck</a>, <a href=https://docs.google.com/presentation/d/1f2bLza9GFhIXUAMudNsb00RTpHAwg5JegGIw2i2Jg8A/edit?usp=sharing>Google Slides</a>
+Other              : <a href=Link>Recreating the Model Guide</a>, <a href=Link>Drug Classes</a>
+</pre>
+
+### ReadME Navigation
+
+[Problem](https://github.com/a-woodbury/RxVision/blob/master/README.md#problem) - 
+[Data](https://github.com/a-woodbury/RxVision#data) -
+[Model](https://github.com/a-woodbury/RxVision#model) -
+[Results](https://github.com/a-woodbury/RxVision#results) - 
+[Recommendations](https://github.com/a-woodbury/RxVision#recommendations) - 
+[Future](https://github.com/a-woodbury/RxVision#future) - 
+[Project Info](https://github.com/a-woodbury/RxVision#project-info) -
+[Works Cited](https://github.com/a-woodbury/RxVision#works-cited)
 
 #### Data Sources
 * The Numbers
@@ -73,3 +86,30 @@ With a focus on profitability, we recommend that Microsoft produce a film meetin
 
 * Voice of the Customer: Conduct sentiment analysis to better understand consumers’ movie interests
 
+
+## Project Info
+
+<pre>
+Contributors : <a href=https://github.com/a-woodbury>Alphonso Woodbury</a>
+               <a href=https://github.com/a-woodbury>Joe Buzzelli</a>
+</pre>
+
+<pre>
+Languages    : Python
+Tools/IDE    : Anaconda
+Libraries    : 
+</pre>
+
+<pre>
+Duration     : March 2020
+Last Update  : 06.05.2020
+</pre>
+
+<pre>
+Domain       : 
+Sub-Domain   : 
+Techniques   :  
+Application  : 
+</pre>
+
+## Works Cited
