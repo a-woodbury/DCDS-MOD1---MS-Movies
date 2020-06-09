@@ -22,7 +22,6 @@ Presentation       : <a href=https://github.com/a-woodbury/Greenlight/blob/maste
 
 [Problem](https://github.com/a-woodbury/Greenlight/blob/master/README.md#problem) - 
 [Data](https://github.com/a-woodbury/Greenlight#data) -
-[Model](https://github.com/a-woodbury/Greenlight#model) -
 [Results](https://github.com/a-woodbury/Greenlight#results) - 
 [Recommendations](https://github.com/a-woodbury/Greenlight#recommendations) - 
 [Future](https://github.com/a-woodbury/Greenlight#future) - 
