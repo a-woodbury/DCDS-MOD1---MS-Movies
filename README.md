@@ -57,19 +57,17 @@ The **API** data supplemented the provided budget and genre data with MPAA and v
 
 * 42% of the Top 50 are Action/adventure
 
-![genrecounts.png](attachment:genrecounts.png)
+![genrecounts.png](https://github.com/a-woodbury/Greenlight/blob/master/images/genrecounts.png)
 
 * Non-Action/Adventure films have higher ROI (on average), but higher budget Action-Adventure films often have higher profit margins
 
-![budgetprofitscatter.png](attachment:budgetprofitscatter.png)
+![budgetprofitscatter.png](https://github.com/a-woodbury/Greenlight/blob/master/images/budgetprofitscatter.png)
 
 * PG-13 Action/Adventure are the most profitable
 
-![unnamed%20%281%29.png](attachment:unnamed%20%281%29.png)
+![unnamed%20%281%29.png](https://github.com/a-woodbury/Greenlight/blob/master/images/Screen%20Shot%202020-03-05%20at%2012.55.06%20PM.png)
 
 * Films released in December or June exhibit the highest profits
-
-![unnamed.png](attachment:unnamed.png)
 
 * Action/adventure movies tend to have higher budgets and profits
 
