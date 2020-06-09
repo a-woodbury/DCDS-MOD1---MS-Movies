@@ -20,13 +20,13 @@ Presentation       : <a href=https://github.com/a-woodbury/Greenlight/blob/maste
 
 ### ReadME Navigation
 
-[Problem](https://github.com/a-woodbury/RxVision/blob/master/README.md#problem) - 
-[Data](https://github.com/a-woodbury/RxVision#data) -
-[Model](https://github.com/a-woodbury/RxVision#model) -
-[Results](https://github.com/a-woodbury/RxVision#results) - 
-[Recommendations](https://github.com/a-woodbury/RxVision#recommendations) - 
-[Future](https://github.com/a-woodbury/RxVision#future) - 
-[Project Info](https://github.com/a-woodbury/RxVision#project-info) -
+[Problem](https://github.com/a-woodbury/Greenlight/blob/master/README.md#problem) - 
+[Data](https://github.com/a-woodbury/Greenlight#data) -
+[Model](https://github.com/a-woodbury/Greenlight#model) -
+[Results](https://github.com/a-woodbury/Greenlight#results) - 
+[Recommendations](https://github.com/a-woodbury/Greenlight#recommendations) - 
+[Future](https://github.com/a-woodbury/Greenlight#future) - 
+[Project Info](https://github.com/a-woodbury/Greenlight#project-info) -
 
 ## Problem
 
