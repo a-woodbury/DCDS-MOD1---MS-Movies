@@ -96,17 +96,10 @@ Contributors : <a href=https://github.com/a-woodbury>Alphonso Woodbury</a>
 <pre>
 Languages    : Python
 Tools/IDE    : Anaconda
-Libraries    : 
+Libraries    : pandas, matplotlib
 </pre>
 
 <pre>
 Duration     : March 2020
-Last Update  : 06.05.2020
-</pre>
-
-<pre>
-Domain       : 
-Sub-Domain   : 
-Techniques   :  
-Application  : 
+Last Update  : 06.09.2020
 </pre>
