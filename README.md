@@ -13,11 +13,9 @@ Our challenge was to analyze movie industry data and provide a client (Microsoft
 
 ### Repository Navigation
 <pre>
-Technical Notebook : <a href=Link>Technical Notebook </a>
-Other Notebooks    : <a href=Link>Modeling</a>, <a href=Link>Data Collection Notebook </a>
-Dataset Links      : <a href=Link>NIH RxImage Portal</a>, <a href=Link>GCP Bucket</a>
-Presentation       : <a href=Link>Slide Deck</a>, <a href=Link>Google Slides</a>
-Other              : <a href=Link>Recreating the Model Guide</a>, <a href=Link>Drug Classes</a>
+Technical Notebook : <a href=https://github.com/a-woodbury/Greenlight/blob/master/notebooks/mod1_jbaw_analysis%26viz_aw.ipynb>Technical Notebook </a>
+Dataset Links      : <a href=https://github.com/a-woodbury/Greenlight/tree/master/data>Data</a>
+Presentation       : <a href=https://github.com/a-woodbury/Greenlight/blob/master/Presentation/Mod1%20Project%20Presentation%20v2.pptx.pdf>Slide Deck</a>
 </pre>
 
 ### ReadME Navigation
